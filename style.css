@@ -1,0 +1,46 @@
+body{
+    background-color:#f2f2f2;
+}
+h1{
+    text-align: center 
+}
+img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
+    justify: center;
+}
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+  
+a:active {
+    text-decoration: underline;
+}
+
+.centered{
+    text-align:center;
+}
+#tribute-info{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tribute-link{
+    color: navy;
+}
+#link-container{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
