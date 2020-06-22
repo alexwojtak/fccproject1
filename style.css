@@ -1,8 +1,16 @@
 body{
-    background-color:#f2f2f2;
+    background-color:#333333;
+    font-family:  Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	font-size: 3.5vw;
+	font-weight: bolder;
+	color:  #FFFFFF;
 }
 h1{
     text-align: center 
+}
+p{
+    font-size: 1.5vw;
+	font-weight: 100;
 }
 img {
     max-width: 100%;
@@ -11,7 +19,14 @@ img {
     margin-right: auto;
     height:auto;
     justify: center;
+    border: 3px solid #000000;
+    border-radius: 25%;
 }
+figcaption{
+    font-size: 1.5vw;
+	font-weight: 100;
+}
+
 a:link {
     text-decoration: none;
 }
@@ -37,10 +52,12 @@ a:active {
     margin-right: auto;
 }
 #tribute-link{
-    color: navy;
+    color: #FFFFFF;
+    font-size: 2.5vw;
+	font-weight: 100;
 }
 #link-container{
-    width: 100px;
+    width: 200px;
     margin-left: auto;
     margin-right: auto;
 }
